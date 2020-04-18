@@ -1,4 +1,4 @@
- // data retrieved on 07.02.2020 from https://datahub.io/core/employment-us#resource-aat1
+// data retrieved on 07.02.2020 from https://datahub.io/core/employment-us#resource-aat1
 // working with chart.js & API locally (file saved on localhost)
 
 async function getData() { 
@@ -72,4 +72,3 @@ const myChart = new Chart(ctx, {
 
     });
 }
- 
